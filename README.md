@@ -49,8 +49,8 @@ This repository contains my solutions to the **NeetCode 150** problems, a curate
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/NeetCode-150.git
-   cd NeetCode-150
+   git clone https://github.com/nitaisutradhar/Neetcode-150-Course---All-Coding-Interview-Questions-Solved.git
+   cd Neetcode-150-Course---All-Coding-Interview-Questions-Solved
    ```
 2. Navigate to the problem folder and open the respective **C++** or **Python** file.
 3. Run the code:
