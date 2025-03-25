@@ -35,13 +35,13 @@ This repository contains my solutions to the **NeetCode 150** problems, a curate
 
 ## ✅ Progress Tracking
 
-| Problem                 | C++ | Python |
-| ----------------------- | --- | ------ |
-| Two Sum                 | ✅   | ✅      |
-| Trapping Rain Water     | ❌   | ❌      |
-| Valid Anagram           | ✅   | ✅      |
-| Longest Substring       | ✅   | ✅      |
-| Palindrome Partitioning | ❌   | ❌      |
+| Problem                    | C++ | Python |
+| ---------------------------| --- | ------ |
+| 1. Contains Duplicate      | ✅   | ❌      |
+| 2. Valid Anagram           | ✅   | ❌      |
+| 3. Two Sum                 | ❌   | ✅      |
+| 4. Group Anagrams          | ❌   | ✅      |
+| 5. Top K Frequent Elements | ✅   | ❌      |
 
 *(Updating as I solve more problems)*
 
