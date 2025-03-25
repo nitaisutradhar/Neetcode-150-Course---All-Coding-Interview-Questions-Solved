@@ -35,13 +35,14 @@ This repository contains my solutions to the **NeetCode 150** problems, a curate
 
 ## ✅ Progress Tracking
 
-| Problem                    | C++ | Python |
-| ---------------------------| --- | ------ |
-| 1. Contains Duplicate      | ✅   | ❌      |
-| 2. Valid Anagram           | ✅   | ❌      |
-| 3. Two Sum                 | ❌   | ✅      |
-| 4. Group Anagrams          | ❌   | ✅      |
-| 5. Top K Frequent Elements | ✅   | ❌      |
+| Problem                           | C++ | Python |
+| ----------------------------------| --- | ------ |
+| 1. Contains Duplicate             | ✅   | ❌      |
+| 2. Valid Anagram                  | ✅   | ❌      |
+| 3. Two Sum                        | ❌   | ✅      |
+| 4. Group Anagrams                 | ❌   | ✅      |
+| 5. Top K Frequent Elements        | ✅   | ❌      |
+| 6. Product of an array except self| ✅   | ✅      |
 
 *(Updating as I solve more problems)*
 
