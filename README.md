@@ -43,6 +43,7 @@ This repository contains my solutions to the **NeetCode 150** problems, a curate
 | 4. Group Anagrams                 | ❌   | ✅      |
 | 5. Top K Frequent Elements        | ✅   | ❌      |
 | 6. Product of an array except self| ✅   | ✅      |
+| 7. Valid Sudoku (LeetCode-36)     | ✅   | ✅      |
 
 *(Updating as I solve more problems)*
 
