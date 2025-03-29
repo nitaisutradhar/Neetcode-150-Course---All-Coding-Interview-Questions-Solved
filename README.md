@@ -35,16 +35,16 @@ This repository contains my solutions to the **NeetCode 150** problems, a curate
 
 ## ✅ Progress Tracking
 
-| Problem                           | C++ | Python |
-| ----------------------------------| --- | ------ |
-| 1. Contains Duplicate             | ✅   | ❌      |
-| 2. Valid Anagram                  | ✅   | ❌      |
-| 3. Two Sum                        | ❌   | ✅      |
-| 4. Group Anagrams                 | ❌   | ✅      |
-| 5. Top K Frequent Elements        | ✅   | ❌      |
-| 6. Product of an array except self| ✅   | ✅      |
-| 7. Valid Sudoku (LeetCode-36)     | ✅   | ✅      |
-| 8. Encode and Decode Strings(L-36)| ❌   | ✅      |
+| Problem                                    | C++ | Python |
+| -------------------------------------------| --- | ------ |
+| 1. Contains Duplicate                      | ✅   | ❌      |
+| 2. Valid Anagram                           | ✅   | ❌      |
+| 3. Two Sum                                 | ❌   | ✅      |
+| 4. Group Anagrams                          | ❌   | ✅      |
+| 5. Top K Frequent Elements                 | ✅   | ❌      |
+| 6. Product of an array except self         | ✅   | ✅      |
+| 7. Valid Sudoku (LeetCode-36)              | ✅   | ✅      |
+| 8. Encode and Decode Strings(L-271)        | ❌   | ✅      |
 
 *(Updating as I solve more problems)*
 
