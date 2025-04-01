@@ -46,6 +46,7 @@ This repository contains my solutions to the **NeetCode 150** problems, a curate
 | 7. Valid Sudoku (LeetCode-36)              | ✅   | ✅      |
 | 8. Encode and Decode Strings(L-271)        | ❌   | ✅      |
 | 9. Longest Consecutive Sequence(L-128)     | ✅   | ❌      |
+| 10. Valid Palindrome(Leetcode-125)         | ❌   | ✅      |
 
 *(Updating as I solve more problems)*
 
