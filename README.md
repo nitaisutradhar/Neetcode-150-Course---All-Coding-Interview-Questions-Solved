@@ -47,6 +47,7 @@ This repository contains my solutions to the **NeetCode 150** problems, a curate
 | 8. Encode and Decode Strings(L-271)        | ❌   | ✅      |
 | 9. Longest Consecutive Sequence(L-128)     | ✅   | ❌      |
 | 10. Valid Palindrome(Leetcode-125)         | ❌   | ✅      |
+| 11. Two Sum II - Input Array Is Sorted(L-167)| ❌   | ✅      |
 
 *(Updating as I solve more problems)*
 
